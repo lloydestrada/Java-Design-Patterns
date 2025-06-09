@@ -20,4 +20,4 @@ Suppose we have three types of characters in a GameApp:
 
 # UML Diagram
 
-![StrategyPatternUML](https://github.com/lloydestrada/StrategyPattern/assets/142376663/96599b03-6193-4da3-92a7-9629c7581010)
+![StrategyPattern](https://github.com/user-attachments/assets/44da70ec-8885-45d4-8515-9d0b025f5637)
