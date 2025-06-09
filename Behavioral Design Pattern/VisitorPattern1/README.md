@@ -47,6 +47,7 @@ public class TelcoPromo {
 }
 ```
 # UML Class Diagram
-![3BSCS1_Estrada_VisitorPatternSW](https://github.com/lloydestrada/VisitorPattern/assets/142376663/d43e022d-7239-4280-9e42-cc817258e3b2)
+
+![VisitorPattern](https://github.com/user-attachments/assets/d53efe37-af56-4e43-9ec6-527bb2b6e5aa)
 
 
