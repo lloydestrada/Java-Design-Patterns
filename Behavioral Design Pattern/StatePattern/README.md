@@ -29,6 +29,7 @@ To address this issue and enhance code maintainability and flexibility, the Stat
 
 
 # UML Diagram
+![StatePattern](https://github.com/user-attachments/assets/9d7edefa-11e8-411c-a2e2-5f3d0aa5afd1)
 
-![StatePattern](https://github.com/user-attachments/assets/0ac9644b-efd2-451f-a562-083955303e47)
+
 
