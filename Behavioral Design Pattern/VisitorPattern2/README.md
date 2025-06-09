@@ -8,4 +8,4 @@ Implement a visitor design pattern approach. You must show the different element
 
 # UML Class Diagram
 
-![VisitorPatternLab](https://github.com/lloydestrada/VisitorPatternLaboratory/assets/142376663/1f4fc522-cc42-409d-842d-9f564059818e)
+![Java_VisitorPattern](https://github.com/user-attachments/assets/42a059dd-4849-42af-8540-b23ea415af93)
